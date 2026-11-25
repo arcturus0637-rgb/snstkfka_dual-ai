@@ -1,0 +1,6 @@
+interface:
+  display_name: "dual-ai"
+  short_description: "Coordinate Codex and Claude Code through OpenRig"
+  default_prompt: "Use $dual-ai to coordinate this project's frontend and backend work through OpenRig."
+policy:
+  allow_implicit_invocation: false
